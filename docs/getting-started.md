@@ -226,7 +226,7 @@ query {
 }
 ```
 
-## 6 Buidl 🚀
+## 6 Build 🚀
 Start building world-changing dApps on top of your newly deployed GraphQL interface 🗿✨.
 
 Feedback and contributions in the form of issues and pull requests are welcome!
